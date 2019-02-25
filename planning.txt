@@ -1,0 +1,31 @@
+My project is a MEHN stack organizer: it takes info its given and helps create and organize the file system for its users. 
+It has users so you can keep track of your projects, prevents you from adding stuff, and towards the gold end of things, 
+it's supposed to suggest file placements based on the models you've entered into the system.
+
+Models:
+Users{
+    Username:
+    Password:
+}
+
+Project{
+    Name:
+    Folder{
+        Name:
+    }
+    Files{
+        Name:
+    }
+}
+
+Models{
+    Name:
+    Key Value Pair{
+        Name:
+        Value:
+    }
+    Methods{
+        Name:
+        Function:
+    }
+}
